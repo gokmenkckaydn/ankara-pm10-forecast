@@ -167,5 +167,7 @@ with tab3:
 - It can't see sudden pollution episodes coming (e.g. dust transport), because nothing in the inputs signals them.
 - Relative error is higher in winter than in summer.
 """)
+
+    st.markdown("Code: [github.com/gokmenkckaydn/ankara-pm10-forecast](https://github.com/gokmenkckaydn/ankara-pm10-forecast)")
     
     
